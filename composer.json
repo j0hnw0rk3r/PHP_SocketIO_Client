@@ -1,0 +1,10 @@
+{
+  "name": "j0hnw0rk3r/PHP_SocketIO_Client",
+  "description": "PHP Socket.IO client - Fork from psinetron/PHP_SocketIO_Client",
+  "authors": [
+    {
+      "name": "Break Neck",
+      "email": "j0hnw0rk3r@gmail.com"
+    }
+  ]
+}
